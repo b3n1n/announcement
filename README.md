@@ -30,6 +30,7 @@ To run the application locally:
 
 ```bash
 ./gradlew bootRun
+```
 
 The API will be available at: http://localhost:8080/api
 
@@ -39,6 +40,6 @@ To run all unit and integration tests:
 
 ```bash
 ./gradlew test
-
+```
 ## 📂 Postman Collection
 You can import the provided Postman collection (AnnouncementAPI.postman_collection.json) to test all endpoints with example requests.
