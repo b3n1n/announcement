@@ -28,7 +28,7 @@ A simple REST API for managing announcements: creating, deleting, editing, and v
 
 To run the application locally:
 
-```bash
+```
 ./gradlew bootRun
 ```
 
@@ -38,7 +38,7 @@ The API will be available at: http://localhost:8080/api
 
 To run all unit and integration tests:
 
-```bash
+```
 ./gradlew test
 ```
 ## 📂 Postman Collection
